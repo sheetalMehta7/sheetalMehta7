@@ -2,7 +2,7 @@
 - 👀 I’m interested in front-end development.
 - 🌱 I’m currently learning React.Js and JavaScript.
 - 📫 How to reach me : email: sheetalmehta137@gamil.com
-- 👩‍💻 My skills: C, C++, HTML, CSS, JavaScript, Bootstrap, DSA, graphic design, SEO.
+- 👩‍💻 My skills: C, C++, HTML, CSS, JavaScript, Bootstrap, DSA, React, graphic design, SEO.
 
 <!---
 sheetalMehta7/sheetalMehta7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
