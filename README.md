@@ -1,6 +1,6 @@
 ## 👋Hi, I'm Sheetal Mehta.
 
-- 👀 I’m interested in front-end development.
+- 👀 I’m a front-end developer.
 - 📫 How to reach me : **email**: sheetalmehta137@gamil.com
 - 🔗 **My LinkedIn profile** : https://www.linkedin.com/in/sheetal-kumari-25b653188
 
