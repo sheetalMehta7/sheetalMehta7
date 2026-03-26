@@ -1,24 +1,54 @@
-<h1 align="center">Hi 👋, I'm Sheetal Mehta</h1>
-<h3 align="center">Welcome to my GitHub profile!</h3>
+<h1 align="center">Sheetal Kumari</h1>
 
-
-
-
-<p align="left"> <a href="https://twitter.com/sheetalmehta707" target="blank"><img src="https://img.shields.io/twitter/follow/sheetalmehta707?logo=twitter&style=for-the-badge" alt="sheetalmehta707" /></a> </p>
-
-- 🌱 I’m currently learning **Three.js, React Native and Backend Developement**
-
-- 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/sheetalmehta7/overview](https://app.netlify.com/teams/sheetalmehta7/overview)
-
-- 💬 Ask me about **React.js, Next.js, Javascript... anything realted to frontend developement**
-
-- 📫 How to reach me **sheetalmehta137@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sheetalmehta707" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sheetalmehta707" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sheetal-kumari-25b653188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sheetalkumari" height="30" width="40" /></a>
+<p align="center">
+  Frontend Engineer &nbsp;·&nbsp; React &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; React Native &nbsp;·&nbsp; TypeScript
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=flat-square&logo=redux&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Remote%20%2F%20Hybrid-blue?style=flat-square" />
+  <img src="https://komarev.com/ghpvc/?username=sheetalMehta7&style=flat-square&color=grey" />
+</p>
+
+---
+
+I'm a frontend engineer who ships — from Figma handoff to Play Store release.  
+I've built production apps across **web, Android, and iOS** for platforms serving 50K+ users, and I care deeply about performance, accessibility, and code that lasts.
+
+Outside of work I'm learning Three.js and exploring backend development.
+
+---
+
+### Stack
+
+`React.js` `Next.js` `TypeScript` `JavaScript` `Angular` `React Native`  
+`Redux Toolkit` `Socket.io` `Stripe.js` `REST APIs`  
+`Tailwind CSS` `MUI` `Bootstrap`  
+`Jest` `React Testing Library` `PWA` `Capacitor` `Cordova`  
+`Git` `GitLab` `Jira` `Postman` `BugSnag`
+
+---
+
+### GitHub stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheetalMehta7&hide_border=true&theme=default" height="130" />
+</p>
+
+---
+
+<p align="center">
+  Open to frontend / React / React Native roles &nbsp;·&nbsp; remote or hybrid<br/>
+  <a href="mailto:sheetalmehta137@gmail.com">sheetalmehta137@gmail.com</a> &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/sheetal-kumari-25b653188">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://twitter.com/sheetalmehta707">Twitter</a>
+</p>
