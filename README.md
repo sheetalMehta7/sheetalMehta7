@@ -1,4 +1,4 @@
-<h1 align="center">Sheetal Kumari</h1>
+<h1 align="center">Sheetal Mehta</h1>
 
 <p align="center">
   Frontend Engineer &nbsp;·&nbsp; React &nbsp;·&nbsp; Next.js &nbsp;·&nbsp; React Native &nbsp;·&nbsp; TypeScript
