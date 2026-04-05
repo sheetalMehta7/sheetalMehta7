@@ -38,14 +38,6 @@ Outside of work I'm learning Three.js and exploring backend development.
 
 ---
 
-### GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sheetalMehta7&hide_border=true&theme=default" height="130" />
-</p>
-
----
-
 <p align="center">
   Open to frontend / React / React Native roles &nbsp;·&nbsp; remote or hybrid<br/>
   <a href="mailto:sheetalmehta137@gmail.com">sheetalmehta137@gmail.com</a> &nbsp;·&nbsp;
