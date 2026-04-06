@@ -21,7 +21,7 @@
 
 ---
 
-I'm a frontend engineer who ships — from Figma handoff to Play Store release.  
+I'm a frontend engineer who ships — on web, Android, and iOS.
 I've built production apps across **web, Android, and iOS** for platforms serving 50K+ users, and I care deeply about performance, accessibility, and code that lasts.
 
 Outside of work I'm learning Three.js and exploring backend development.
